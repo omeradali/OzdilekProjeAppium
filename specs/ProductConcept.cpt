@@ -1,0 +1,10 @@
+#Kadın seçeneğine Tıklanır
+*"//*[@resource-id='com.ozdilek.ozdilekteyim:id/relLayCategoriesItem'][2]" yeni elementi bul tıkla
+#Pantolon Ürünü Seçilir
+*"//*[@text='Pantolon']" yeni elementi bul tıkla
+#Sayfayı 2 Kere Aşağı Kaydır
+*Sayfayı aşağı doğru kaydır
+#Rastgele Ürün Seçimi Yap
+*Rastgele Ürün Seçimi Yapılır
+#Ürün Sepete Eklenir
+*Ürünü Sepete Ekle

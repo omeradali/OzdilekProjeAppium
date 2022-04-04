@@ -1,0 +1,5 @@
+#Uygulama ana ekranından Alışverişe Başla butonuna tıklanır
+*"com.ozdilek.ozdilekteyim:id/tv_startShoppingStore" elementi bul ve tıkla
+*"3" saniye bekle
+#Kategoriler Butonuna Tıkla
+*"//android.widget.FrameLayout[@content-desc='Kategoriler']/android.widget.ImageView" yeni elementi bul tıkla
